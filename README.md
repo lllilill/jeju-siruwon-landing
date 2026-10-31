@@ -1,6 +1,6 @@
 # 제주 시루원 홍보 랜딩페이지 시안
 
-2026-10-31에 제작한 정적 페이지입니다. `index.html`, `styles.css`, `assets/`를 같은 디렉터리에서 제공하면 동작합니다.
+2026-10-31에 제작한 정적 페이지입니다. `index.html`, `styles.css`, `proposal.css`, `assets/`, `proposal/`을 같은 디렉터리에서 제공하면 동작합니다.
 
 게시 주소: https://lllilill.github.io/jeju-siruwon-landing/
 GitHub 저장소: https://github.com/lllilill/jeju-siruwon-landing
@@ -19,4 +19,8 @@ GitHub 저장소: https://github.com/lllilill/jeju-siruwon-landing
 ## 이미지
 
 `assets/hero.png`, `assortment.png`, `gift.png`, `craft.png`, `jeju.png`는 모두 생성형 연출 시안입니다. 실제 시루원 상품이나 시설을 촬영한 사진이 아닙니다.
+
+## 업체 제안서
+
+페이지 하단의 `마케팅 제안` 구역은 시루원 대표님을 위한 내용입니다. `proposal/jeju-siruwon-marketing-proposal.pdf`를 열람할 수 있습니다. 예산과 성과 수치는 내부 자료 확인 전 가정에 따른 예시입니다.
 
